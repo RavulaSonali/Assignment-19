@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaLib", "ShapeAreaLib.csproj", "{BB1F42C7-F348-445A-B9F9-5BC74F967848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB1F42C7-F348-445A-B9F9-5BC74F967848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1F42C7-F348-445A-B9F9-5BC74F967848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1F42C7-F348-445A-B9F9-5BC74F967848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1F42C7-F348-445A-B9F9-5BC74F967848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30FC8197-10B8-4566-A209-D233FE6B17E4}
+	EndGlobalSection
+EndGlobal

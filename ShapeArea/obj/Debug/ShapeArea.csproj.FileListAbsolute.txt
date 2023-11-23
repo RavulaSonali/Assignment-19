@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\bin\Debug\ShapeArea.exe.config
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\bin\Debug\ShapeArea.exe
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\bin\Debug\ShapeArea.pdb
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\bin\Debug\ShapeAreaLib.dll
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\bin\Debug\ShapeAreaLib.pdb
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\obj\Debug\ShapeArea.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\obj\Debug\ShapeArea.csproj.CopyComplete
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\obj\Debug\ShapeArea.exe
+C:\Users\Home\Desktop\Mphasis\Assignments\Assignment-19\ShapeArea\obj\Debug\ShapeArea.pdb
